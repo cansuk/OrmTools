@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestGis2.0
+/bin
+/BasePlus/bin
+/Base.OrmLibrary/bin/Debug/netcoreapp3.1
+/BasePlus/obj
+/Base.OrmLibrary/obj
+/BasePlus.Business/bin
+/BasePlus.Business/obj
+/BasePlus.BusinessContracts/bin
+/BasePlus.BusinessContracts/obj
+/BasePlus.Common/bin
+/BasePlus.Common/obj
+/BasePlus.Data/bin
+/BasePlus.Data/obj
+/BasePlus.Data/.idea/.idea.BasePlus.Data.dir
